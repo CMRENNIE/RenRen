@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "DevRen Games",
+    "longName": "SortFlip",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/munu_icon.png",
+                "menuIcon": true,
+                "name": "munu_icon",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "SortFlip",
+    "uuid": "48bdfda8-caab-4a42-a072-6f84ed87fe59",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
